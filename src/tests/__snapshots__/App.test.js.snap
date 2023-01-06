@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component to mach snapshot 1`] = `
+Array [
+  <mock-navbar
+    data-testid="navbar"
+  />,
+  <div
+    className="App"
+  >
+    <h1>
+      <span>
+        welcome test user
+      </span>
+        
+      <span>
+        bob
+      </span>
+       
+    </h1>
+    <mock-products
+      data-testid="products"
+    />
+  </div>,
+]
+`;
